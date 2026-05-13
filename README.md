@@ -34,7 +34,7 @@ The dashboard is designed to help stakeholders make data-driven decisions throug
 ## 🎥 Dashboard Demo (Video)
 ▶️ Download and view the dashboard walkthrough:
 
-👉 [Watch Dashboard Video](PASTE_YOUR_MP4_LINK_HERE)
+👉 [Watch Dashboard Video](E-comerce dashboard.mp4)
 
 ---
 
