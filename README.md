@@ -3,7 +3,7 @@
 ## 🔍 Overview
 This project focuses on analyzing e-commerce sales data to uncover key business insights related to revenue, customer behavior, and order performance.
 
-The dashboard is designed to help stakeholders make data-driven decisions by providing clear and interactive visualizations.
+The dashboard is designed to help stakeholders make data-driven decisions through interactive visualizations.
 
 ---
 
@@ -31,17 +31,10 @@ The dashboard is designed to help stakeholders make data-driven decisions by pro
 
 ---
 
-## 📊 Dashboard Features
-- Interactive slicers (Product Category, Customer State)
-- Revenue trend analysis
-- Category-wise revenue breakdown
-- Order status distribution
-- KPI cards for quick insights
+## 🎥 Dashboard Demo (Video)
+▶️ Download and view the dashboard walkthrough:
 
----
-
-## 📷 Dashboard Preview
-![Dashboard](dashboard.png)
+👉 [Watch Dashboard Video](PASTE_YOUR_MP4_LINK_HERE)
 
 ---
 
@@ -67,8 +60,4 @@ Aspiring Data Analyst passionate about turning raw data into meaningful insights
 ---
 
 ## ⭐ If you like this project
-Give it a ⭐ on GitHub and feel free to connect!## 🔗 Download Power BI File
-
-<a href="https://drive.google.com/file/d/1zNm-iPH7mgL7tbPVuN5esB0R62JoF-42/view?usp=drive_link" target="_blank">
-  Download Dashboard
-</a>
+Give it a ⭐ on GitHub and feel free to connect!
