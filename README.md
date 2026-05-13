@@ -34,7 +34,7 @@ The dashboard is designed to help stakeholders make data-driven decisions throug
 ## 🎥 Dashboard Demo (Video)
 ▶️ Download and view the dashboard walkthrough:
 
-👉 [Watch Dashboard Video](E-comerce dashboard.mp4)
+👉 [Watch Dashboard Video][E-comerce dashboard.mp4](https://github.com/khushalimkumawat-996/Ecommerce-Sales-Dashboard-PowerBI/raw/refs/heads/main/E-comerce%20dashboard.mp4)
 
 ---
 
